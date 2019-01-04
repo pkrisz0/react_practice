@@ -4,6 +4,7 @@
   "description": "my very first react app",
   "main": "index.js",
   "dependencies": {
+    "@babel/preset-react": "^7.0.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "scheduler": "^0.12.0"
